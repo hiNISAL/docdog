@@ -1,0 +1,13 @@
+{
+  "name": "cli-doc",
+  "version": "1.0.0",
+  "description": "草料结构文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd ./doc && vuepress dev",
+    "build": "cd ./doc && vuepress build"
+  },
+  "author": "NISAL-153-dongjianye@nears.cn",
+  "license": "MIT"
+}
